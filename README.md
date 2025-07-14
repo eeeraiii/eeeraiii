@@ -1,6 +1,6 @@
 # 💫 About Me:
 🤖 I'm Eli, an aspiring data analyst and storyteller based in Singapore.<br>
-🌱 I'm sharpening my skills in SQL and Python tools, including Pandas for analysis and Plotly/Seaborn for visualisation<br>
+🌱 I'm sharpening my skills in SQL and Python tools, including Pandas for analysis and Plotly/Seaborn for visualisation.<br>
 💭 I intend to learn more about natural language processing and how to handle other forms of unstructured data.<br>
 
 
