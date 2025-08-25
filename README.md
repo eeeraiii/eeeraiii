@@ -3,6 +3,7 @@
 🌱 I'm sharpening my skills in SQL and Python tools, including Pandas for analysis and Plotly/Seaborn for visualisation.<br>
 💭 I intend to learn more about natural language processing and how to handle other forms of unstructured data.<br>
 
+UPDATE 25/08/2025: I have uploaded a new repository for a project where I built a machine learning pipeline that can predict whether a student fails their Math O-Level examinations based on a dataset of students' environmental factors.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eli-ordonez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elirdnz@gmail.com) 
