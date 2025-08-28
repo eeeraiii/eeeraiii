@@ -4,7 +4,7 @@
 💭 I intend to learn more about natural language processing and how to handle other forms of unstructured data.<br>
 
 # 👷‍♂️ Repositories:
-1. [**Listening to the Weather: Modelling for a Weather-Based Spotify Playlist**](https://github.com/eeeraiii/modelling_for_a_weather_based_spotify_playlist): In this project, I built a model that can curate a full Spotify playlist based on daily weather conditions in Tokyo. Link below leads to Tableau-based tool for playlist curation. (Completed in June 2025)
+1. [**Listening to the Weather: Modelling for a Weather-Based Spotify Playlist**](https://github.com/eeeraiii/modelling_for_a_weather_based_spotify_playlist): In this project, I built a model that can curate a full Spotify playlist based on daily weather conditions in Tokyo. (Completed in June 2025)
 2. [**Building a Machine Learning Pipeline to Flag Students at Risk of Failing**](https://github.com/eeeraiii/machine_learning_pipeline_to_flag_students_at_risk_of_failing): In this project, I designed an end-to-end python-based machine learning pipeline that can accurately predict whether a Secondary 4 student will fail their O-Level Mathematics exam. (Completed in August 2025)
 3. [**Titanic – Machine Learning from Disaster**](https://github.com/eeeraiii/kaggle_titanic_competition): This was is my best attempt at Kaggle's infamous Titanic machine learning competition, where I predicted whether a passenger would or would not survive the shipwreck based on passenger data. (Completed in August 2025)
 
